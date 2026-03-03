@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Ximena Garrido 👋
 
-<!--
-**xgarridoig-jpg/xgarridoig-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Full Stack en formación enfocada en **Python, Django y PostgreSQL**.  
+Me interesa construir productos web completos: backend sólido, datos bien modelados y UI clara.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### 🌬️ Kau del Viento — E-Commerce (Django + PostgreSQL)
+CRUD de catálogo, relaciones ORM, migraciones y módulo de administración.
+- Repo: https://github.com/xgarridoig-jpg/kau-del-viento
+
+### 📚 Biblioca Yagan — Biblioteca (Django CRUD)
+Gestión de libros con Create/Read/Update/Delete, templates con herencia y CSRF.
+- Repo: https://github.com/xgarridoig-jpg/m7-l6-libreria
+
+### 🐚 Chilwe — Blog cultural (Django + PostgreSQL)
+Modelado de autores y artículos + consultas ORM y base de datos PostgreSQL.
+- Repo: https://github.com/xgarridoig-jpg/m7-l3-blog
+
+---
+
+## Stack
+
+- Python · Django · PostgreSQL
+- HTML/CSS · Bootstrap
+- Git/GitHub
+
+---
+
+## Contacto
+
+- GitHub: https://github.com/xgarridoig-jpg
+- LinkedIn: 
+- Email: 
