@@ -51,3 +51,12 @@ https://github.com/xgarridoig-jpg/chilwe
 - PostgreSQL
 - HTML / CSS
 - Git & GitHub
+
+
+---
+
+## 🎯 Enfoque Profesional
+
+Mi objetivo es desarrollarme como Backend Developer,
+construyendo aplicaciones escalables y bien estructuradas
+para la industria tecnológica.
