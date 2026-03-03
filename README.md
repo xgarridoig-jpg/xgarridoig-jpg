@@ -29,7 +29,7 @@ Sistema de gestión de biblioteca.
 - Validaciones en formularios
 
 Repositorio:
-https://github.com/xgarridoig-jpg/m7-l6-libreria
+https://github.com/xgarridoig-jpg/biblioteca-yagan
 
 ---
 
@@ -40,7 +40,7 @@ Blog cultural con Django y PostgreSQL.
 - Persistencia en PostgreSQL
 
 Repositorio:
-https://github.com/xgarridoig-jpg/m7-l3-blog
+https://github.com/xgarridoig-jpg/chilwe
 
 ---
 
