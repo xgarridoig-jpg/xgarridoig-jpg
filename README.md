@@ -1,36 +1,53 @@
-# Hola, soy Ximena Garrido 👋
+# Ximena Garrido 👩🏻‍💻
 
-Desarrolladora Full Stack en formación enfocada en **Python, Django y PostgreSQL**.  
-Me interesa construir productos web completos: backend sólido, datos bien modelados y UI clara.
+Backend Developer especializada en **Python, Django y PostgreSQL**.
 
----
-
-## Proyectos destacados
-
-### 🌬️ Kau del Viento — E-Commerce (Django + PostgreSQL)
-CRUD de catálogo, relaciones ORM, migraciones y módulo de administración.
-- Repo: https://github.com/xgarridoig-jpg/kau-del-viento
-
-### 📚 Biblioca Yagan — Biblioteca (Django CRUD)
-Gestión de libros con Create/Read/Update/Delete, templates con herencia y CSRF.
-- Repo: https://github.com/xgarridoig-jpg/m7-l6-libreria
-
-### 🐚 Chilwe — Blog cultural (Django + PostgreSQL)
-Modelado de autores y artículos + consultas ORM y base de datos PostgreSQL.
-- Repo: https://github.com/xgarridoig-jpg/m7-l3-blog
+Me enfoco en construir aplicaciones web con arquitectura clara, 
+modelado relacional sólido y buenas prácticas de desarrollo.
 
 ---
 
-## Stack
+## 🚀 Proyectos Destacados
 
-- Python · Django · PostgreSQL
-- HTML/CSS · Bootstrap
-- Git/GitHub
+### 🌬️ Kau del Viento
+E-Commerce desarrollado con Django y PostgreSQL.
+- Modelado de datos relacional
+- CRUD completo
+- Administración con Django Admin
+- Migraciones controladas
+
+Repositorio:
+https://github.com/xgarridoig-jpg/kau-del-viento
 
 ---
 
-## Contacto
+### 📚 Biblioca Yagan
+Sistema de gestión de biblioteca.
+- CRUD de libros
+- Templates con herencia
+- Protección CSRF
+- Validaciones en formularios
 
-- GitHub: https://github.com/xgarridoig-jpg
-- LinkedIn: 
-- Email: 
+Repositorio:
+https://github.com/xgarridoig-jpg/m7-l6-libreria
+
+---
+
+### 🐚 Chilwe
+Blog cultural con Django y PostgreSQL.
+- Relación Autor–Artículo
+- Consultas ORM
+- Persistencia en PostgreSQL
+
+Repositorio:
+https://github.com/xgarridoig-jpg/m7-l3-blog
+
+---
+
+## 🛠 Stack
+
+- Python
+- Django
+- PostgreSQL
+- HTML / CSS
+- Git & GitHub
