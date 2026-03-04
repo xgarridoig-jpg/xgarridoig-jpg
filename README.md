@@ -25,7 +25,7 @@ Arquitectura clara, lógica de negocio estructurada y persistencia sólida.
 ### 02 · Biblioca Yagán  
 Sistema CRUD cultural con modelado relacional y separación por capas.
 
-🔗 https://github.com/xgarridoig-jpg/biblioca-yagan  
+🔗 https://github.com/xgarridoig-jpg/biblioteca-yagan
 
 ---
 
