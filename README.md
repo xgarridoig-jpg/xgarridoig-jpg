@@ -1,38 +1,8 @@
-# Ximena Garrido  
-### Backend Engineer · Patagonia
+# Ximena Garrido
 
-53° Sur. Arquitectura antes que improvisación.
+Backend Developer desde el sur de Chile.
 
-Construyo sistemas backend con la solidez de la roca granítica y la precisión de quien sabe que el código debe resistir el tiempo.
-
-Especializada en:
-
-Python · Django · PostgreSQL  
-Arquitectura modular · Modelado relacional · Clean code  
-
----
-
-## Trabajos seleccionados
-
-### 01 · Kau del Viento  
-E-commerce construido con Django y PostgreSQL.  
-Arquitectura clara, lógica de negocio estructurada y persistencia sólida.
-
-🔗 https://github.com/xgarridoig-jpg/kau-del-viento  
-
----
-
-### 02 · Biblioca Yagán  
-Sistema CRUD cultural con modelado relacional y separación por capas.
-
-🔗 https://github.com/xgarridoig-jpg/biblioteca-yagan
-
----
-
-### 03 · Chilwe  
-Plataforma de contenido con estructura modular y uso consistente del ORM de Django.
-
-🔗 https://github.com/xgarridoig-jpg/chilwe  
+Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones backend con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
 
 ---
 
@@ -46,9 +16,41 @@ Prefiero arquitectura clara antes que complejidad innecesaria.
 
 ---
 
+## Stack tecnológico
+
+- Python
+- Django
+- PostgreSQL
+- Django ORM
+- Git
+
+---
+
+## Proyectos destacados
+
+### Kau del Viento
+Aplicación web desarrollada con Django que explora la gestión de productos y la estructura de un sistema de comercio utilizando PostgreSQL y el ORM de Django.
+
+### Biblioteca Yagán
+Aplicación Django orientada a la gestión de registros culturales, implementando relaciones entre modelos y operaciones CRUD mediante el ORM.
+
+### Chilwe Blog
+Plataforma de blog desarrollada con Django que implementa gestión de autores y artículos utilizando relaciones entre modelos y consultas mediante el ORM.
+
+---
+
+## Portafolio
+
+Puedes ver mi portafolio completo aquí:
+
+https://xgarridoig-jpg.github.io/
+
+---
+
 ## Contacto
 
-Chile · Disponible para trabajo remoto  
+LinkedIn  
+https://www.linkedin.com/in/xpgarrido
 
-✉️ xgarridoiglesias@icloud.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ximena-garrido-iglesias-b1a105397/
+GitHub  
+https://github.com/xgarridoig-jpg
