@@ -1,62 +1,57 @@
-# Ximena Garrido 👩🏻‍💻
+# Ximena Garrido  
+### Backend Engineer · Django · PostgreSQL  
 
-Backend Developer especializada en **Python, Django y PostgreSQL**.
-
-Me enfoco en construir aplicaciones web con arquitectura clara, 
-modelado relacional sólido y buenas prácticas de desarrollo.
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🌬️ Kau del Viento
-E-Commerce desarrollado con Django y PostgreSQL.
-- Modelado de datos relacional
-- CRUD completo
-- Administración con Django Admin
-- Migraciones controladas
-
-Repositorio:
-https://github.com/xgarridoig-jpg/kau-del-viento
+Originaria de la Patagonia chilena.  
+Construyo sistemas backend con arquitectura clara, modelado relacional sólido y código mantenible.
 
 ---
 
-### 📚 Biblioca Yagan
-Sistema de gestión de biblioteca.
-- CRUD de libros
-- Templates con herencia
-- Protección CSRF
-- Validaciones en formularios
+## ⚙️ Stack Principal
 
-Repositorio:
-https://github.com/xgarridoig-jpg/biblioteca-yagan
+- Python  
+- Django  
+- PostgreSQL  
+- Django ORM  
+- Git  
 
 ---
 
-### 🐚 Chilwe
-Blog cultural con Django y PostgreSQL.
-- Relación Autor–Artículo
-- Consultas ORM
-- Persistencia en PostgreSQL
+## 🧱 Filosofía de Desarrollo
 
-Repositorio:
-https://github.com/xgarridoig-jpg/chilwe
+> El código debe ser claro, escalable y sostenible en el tiempo.  
+> Arquitectura antes que improvisación.  
+> Estructura antes que complejidad.
 
 ---
 
-## 🛠 Stack
+## 🚀 Proyectos Seleccionados
 
-- Python
-- Django
-- PostgreSQL
-- HTML / CSS
-- Git & GitHub
-
+### 🌬 Kau del Viento  
+E-commerce construido con Django y PostgreSQL.  
+Arquitectura modular y lógica de negocio estructurada.  
+🔗 https://github.com/xgarridoig-jpg/kau-del-viento  
 
 ---
 
-## 🎯 Enfoque Profesional
+### 📚 Biblioca Yagan  
+Sistema CRUD con modelado relacional y persistencia en PostgreSQL.  
+🔗 https://github.com/xgarridoig-jpg/biblioca-yagan  
 
-Mi objetivo es desarrollarme como Backend Developer,
-construyendo aplicaciones escalables y bien estructuradas
-para la industria tecnológica.
+---
+
+### 🐚 Chilwe  
+Blog cultural con separación clara de modelos y uso consistente del ORM.  
+🔗 https://github.com/xgarridoig-jpg/chilwe  
+
+---
+
+## 🌎 Ubicación
+
+Chile · Disponible para trabajo remoto  
+
+---
+
+## 📫 Contacto
+
+- Email: xgarridoiglesias@icloud.com  
+- LinkedIn: https://www.linkedin.com/in/ximena-garrido-iglesias-b1a105397/  
