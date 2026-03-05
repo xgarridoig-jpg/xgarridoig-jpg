@@ -1,8 +1,17 @@
 # Ximena Garrido
 
-Backend Developer desde el sur de Chile.
+Backend Developer  
+Python · Django · PostgreSQL
 
-Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones backend con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
+---
+
+## Sobre mí
+
+Soy desarrolladora backend originaria de la Patagonia chilena.
+
+Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
+
+Me interesa construir sistemas que prioricen la claridad, la mantenibilidad y una arquitectura que permita evolucionar el software sin complejidad innecesaria.
 
 ---
 
@@ -16,41 +25,51 @@ Prefiero arquitectura clara antes que complejidad innecesaria.
 
 ---
 
-## Stack tecnológico
+## Stack
 
-- Python
-- Django
-- PostgreSQL
-- Django ORM
-- Git
+Python  
+Django  
+PostgreSQL  
+Django ORM  
+Git  
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
 ### Kau del Viento
-Aplicación web desarrollada con Django que explora la gestión de productos y la estructura de un sistema de comercio utilizando PostgreSQL y el ORM de Django.
+Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.
+
+🔗 https://github.com/xgarridoig-jpg/kau-del-viento
+
+---
 
 ### Biblioteca Yagán
-Aplicación Django orientada a la gestión de registros culturales, implementando relaciones entre modelos y operaciones CRUD mediante el ORM.
+Aplicación Django orientada a la gestión de registros culturales, implementando relaciones entre modelos y operaciones CRUD.
+
+🔗 https://github.com/xgarridoig-jpg/biblioteca-yagan
+
+---
 
 ### Chilwe Blog
-Plataforma de blog desarrollada con Django que implementa gestión de autores y artículos utilizando relaciones entre modelos y consultas mediante el ORM.
+Plataforma de blog desarrollada con Django que implementa gestión de autores y artículos utilizando relaciones entre modelos.
+
+🔗 https://github.com/xgarridoig-jpg/chilwe
 
 ---
 
 ## Portafolio
 
-Puedes ver mi portafolio completo aquí:
+Mi portafolio completo está disponible aquí:
 
-https://xgarridoig-jpg.github.io/
+🌐 https://xgarridoig-jpg.github.io/
 
 ---
 
 ## Contacto
 
 LinkedIn  
-https://www.linkedin.com/in/xpgarrido
+https://www.linkedin.com/in/xpgarrido/
 
 GitHub  
 https://github.com/xgarridoig-jpg
