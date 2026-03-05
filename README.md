@@ -1,6 +1,7 @@
-# Ximena Garrido
+![Banner](banner-patagonia.png)
 
-Backend Developer  
+# Ximena Garrido
+Backend Developer
 Python · Django · PostgreSQL
 
 ---
