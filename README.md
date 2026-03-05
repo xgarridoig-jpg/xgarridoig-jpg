@@ -1,8 +1,13 @@
-![Banner](banner-patagonia.png)
+<p align="center">
+  <img src="banner-patagonia.png" width="900">
+</p>
 
-# Ximena Garrido
-Backend Developer
+<h1 align="center">Ximena Garrido</h1>
+
+<p align="center">
+Backend Developer<br>
 Python · Django · PostgreSQL
+</p>
 
 ---
 
@@ -10,9 +15,9 @@ Python · Django · PostgreSQL
 
 Soy desarrolladora backend originaria de la Patagonia chilena.
 
-Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
+Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con modelos de datos claros y estructuras de código mantenibles.
 
-Me interesa construir sistemas que prioricen la claridad, la mantenibilidad y una arquitectura que permita evolucionar el software sin complejidad innecesaria.
+Me interesa construir sistemas que prioricen la **claridad, la mantenibilidad y una arquitectura que permita evolucionar el software sin complejidad innecesaria**.
 
 ---
 
@@ -38,32 +43,30 @@ Git
 
 ## Proyectos
 
-### Kau del Viento
-Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.
+**Kau del Viento**  
+Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.  
 
-🔗 https://github.com/xgarridoig-jpg/kau-del-viento
-
----
-
-### Biblioteca Yagán
-Aplicación Django orientada a la gestión de registros culturales, implementando relaciones entre modelos y operaciones CRUD.
-
-🔗 https://github.com/xgarridoig-jpg/biblioteca-yagan
+https://github.com/xgarridoig-jpg/kau-del-viento
 
 ---
 
-### Chilwe Blog
-Plataforma de blog desarrollada con Django que implementa gestión de autores y artículos utilizando relaciones entre modelos.
+**Biblioteca Yagán**  
+Aplicación Django orientada a la gestión de registros culturales con operaciones CRUD y relaciones entre modelos.  
 
-🔗 https://github.com/xgarridoig-jpg/chilwe
+https://github.com/xgarridoig-jpg/biblioteca-yagan
+
+---
+
+**Chilwe Blog**  
+Plataforma de blog desarrollada con Django con gestión de autores y artículos utilizando modelado relacional.  
+
+https://github.com/xgarridoig-jpg/chilwe
 
 ---
 
 ## Portafolio
 
-Mi portafolio completo está disponible aquí:
-
-🌐 https://xgarridoig-jpg.github.io/
+https://xgarridoig-jpg.github.io/
 
 ---
 
@@ -74,3 +77,7 @@ https://www.linkedin.com/in/xpgarrido/
 
 GitHub  
 https://github.com/xgarridoig-jpg
+
+---
+
+Gracias por visitar mi perfil.
