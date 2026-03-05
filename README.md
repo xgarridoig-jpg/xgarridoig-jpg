@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-patagonia.png" width="900">
+  <img src="banner-patagonia.png" width="700">
 </p>
 
 <h1 align="center">Ximena Garrido</h1>
@@ -9,13 +9,15 @@ Backend Developer<br>
 Python · Django · PostgreSQL
 </p>
 
+<br>
+
 ---
 
 ## Sobre mí
 
 Soy desarrolladora backend originaria de la Patagonia chilena.
 
-Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con modelos de datos claros y estructuras de código mantenibles.
+Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
 
 Me interesa construir sistemas que prioricen la **claridad, la mantenibilidad y una arquitectura que permita evolucionar el software sin complejidad innecesaria**.
 
@@ -44,21 +46,21 @@ Git
 ## Proyectos
 
 **Kau del Viento**  
-Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.  
+Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.
 
 https://github.com/xgarridoig-jpg/kau-del-viento
 
 ---
 
 **Biblioteca Yagán**  
-Aplicación Django orientada a la gestión de registros culturales con operaciones CRUD y relaciones entre modelos.  
+Aplicación Django orientada a la gestión de registros culturales con operaciones CRUD y relaciones entre modelos.
 
 https://github.com/xgarridoig-jpg/biblioteca-yagan
 
 ---
 
 **Chilwe Blog**  
-Plataforma de blog desarrollada con Django con gestión de autores y artículos utilizando modelado relacional.  
+Plataforma de blog desarrollada con Django con gestión de autores y artículos utilizando modelado relacional.
 
 https://github.com/xgarridoig-jpg/chilwe
 
