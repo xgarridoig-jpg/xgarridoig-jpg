@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-patagonia.png" width="700">
+  <img src="banner-patagonia.png" width="400">
 </p>
 
 <h1 align="center">Ximena Garrido</h1>
