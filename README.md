@@ -3,64 +3,103 @@
 Backend Developer  
 Python · Django · PostgreSQL
 
+🌐 Portafolio  
+https://xgarridoig-jpg.github.io/
+
 ---
 
 ## Sobre mí
 
 Soy desarrolladora backend originaria de la Patagonia chilena.
 
-Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones web con estructuras claras, modelos de datos bien definidos y código que pueda mantenerse en el tiempo.
+Trabajo principalmente con **Python, Django y PostgreSQL**, desarrollando aplicaciones con estructuras claras, modelos de datos bien definidos y código mantenible.
 
-Me interesa construir sistemas que prioricen la **claridad, la mantenibilidad y una arquitectura que permita evolucionar el software sin complejidad innecesaria**.
+Me interesa construir sistemas que puedan crecer de forma ordenada y ser fáciles de mantener.
 
----
+> El backend no es visible.  
+> Pero sostiene todo.
 
-## Filosofía
-
-El backend no es visible.  
-Pero sostiene todo.
-
-Prefiero sistemas entendibles antes que soluciones ingeniosas.  
-Prefiero arquitectura clara antes que complejidad innecesaria.
-
----
-
-## Stack
-
-Python  
-Django  
-PostgreSQL  
-Django ORM  
-Git  
+> Prefiero sistemas entendibles antes que soluciones ingeniosas.  
+> Prefiero arquitectura clara antes que complejidad innecesaria.
 
 ---
 
 ## Proyectos
 
-**Kau del Viento**  
-Aplicación web desarrollada con Django que explora la estructura de un sistema de comercio electrónico utilizando PostgreSQL y el ORM de Django.
+### Chilwe
+Sistema de gestión de contenidos desarrollado con Django que implementa administración de artículos y autores utilizando el ORM del framework.
 
-https://github.com/xgarridoig-jpg/kau-del-viento
-
----
-
-**Biblioteca Yagán**  
-Aplicación Django orientada a la gestión de registros culturales con operaciones CRUD y relaciones entre modelos.
-
-https://github.com/xgarridoig-jpg/biblioteca-yagan
-
----
-
-**Chilwe Blog**  
-Plataforma de blog desarrollada con Django con gestión de autores y artículos utilizando modelado relacional.
-
+🔗  
 https://github.com/xgarridoig-jpg/chilwe
 
 ---
 
-## Portafolio
+### Biblioteca Yagán
+Aplicación Django orientada a la gestión de registros culturales mediante relaciones entre modelos y operaciones CRUD.
 
-https://xgarridoig-jpg.github.io/
+🔗  
+https://github.com/xgarridoig-jpg/biblioteca-yagan
+
+---
+
+### Kau del Viento
+Aplicación web desarrollada con Django y PostgreSQL que explora la estructura de un sistema de comercio con gestión de productos y catálogo.
+
+🔗  
+https://github.com/xgarridoig-jpg/kau-del-viento
+
+---
+
+## Tecnologías & Herramientas
+
+**Lenguajes**
+
+Python  
+SQL  
+PL/SQL  
+
+**Framework**
+
+Django  
+
+**Bases de datos**
+
+PostgreSQL  
+Oracle Database  
+
+**Backend**
+
+Django ORM  
+Modelado relacional  
+CRUD applications  
+
+**Herramientas**
+
+Git  
+Jira  
+Confluence  
+Power BI  
+
+---
+
+## Metodologías
+
+Scrum  
+Kanban  
+CMMI  
+
+---
+
+## Certificaciones
+
+Diplomado Diseño y Gestión Ágil de Proyectos  
+Fundación Telefónica Movistar · 2025  
+
+Microsoft Azure Fundamentals (AZ-900)  
+Microsoft · 2022  
+
+Scrum Foundation Professional Certification  
+CertiProf · 2022  
 
 ---
 
@@ -69,8 +108,8 @@ https://xgarridoig-jpg.github.io/
 LinkedIn  
 https://www.linkedin.com/in/xpgarrido/
 
-GitHub  
-https://github.com/xgarridoig-jpg
+Portafolio  
+https://xgarridoig-jpg.github.io/
 
 ---
 
