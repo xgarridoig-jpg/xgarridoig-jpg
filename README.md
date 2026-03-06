@@ -115,4 +115,3 @@ Ximena Garrido · Magallanes · 2026
 ```
 
 </div>
-```
