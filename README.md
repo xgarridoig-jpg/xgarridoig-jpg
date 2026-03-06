@@ -116,5 +116,3 @@ Ximena Garrido · Magallanes · 2026
 
 </div>
 ```
-
-Si quieres, en el siguiente paso puedo mostrarte **un pequeño truco que usan ingenieros senior para que su perfil de GitHub se vea aún más profesional sin agregar nada de contenido.**
