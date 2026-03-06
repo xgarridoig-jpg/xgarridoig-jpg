@@ -1,4 +1,3 @@
-Muy bien que lo estés revisando críticamente. El README que te generó Claude **es bueno visualmente**, pero efectivamente hay **cosas que no aplican a tu realidad** y conviene corregir para mantener la honestidad técnica (algo que ya cuidaste en tu portafolio).
 # Ximena Garrido
 
 <div align="center">
